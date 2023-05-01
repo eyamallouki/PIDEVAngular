@@ -84,7 +84,7 @@ a.scrollup-btn{
     text-align: center;
     line-height: 58px;
     font-size: 29px;
-    color: #A20B0B;
+    color: #cd2122;
     z-index: 9;
     opacity: 0;
     visibility: hidden;
@@ -118,7 +118,7 @@ a.scrollup-btn.visible{
 }
 
 a.scrollup-btn:hover{
-    background-color: #A20B0B;
+    background-color: #cd2122;
     color: #fff;
 }
 
@@ -205,7 +205,7 @@ a.scrollup-btn:hover{
 .ptb--170 { padding: 170px 0 }
 .ptb--180 { padding: 180px 0 }
 
-.{
+.body{
     background: #edf1ff;
 }
 
